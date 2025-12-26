@@ -1,52 +1,52 @@
 # José Jefferson da Silva Vaz
-**Java Backend Developer | Spring Boot | REST APIs**
 
-I'm a passionate Java Developer focused on building robust and scalable backend systems. Currently pursuing my degree while working on complex projects that solve real-world problems using modern Java technologies and best practices.
+**DBA Developer | .NET & Java | Event Streaming & Cloud Solutions**
 
-## 🚀 Technical Skills
-
-### **Backend Development**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Framework](https://img.shields.io/badge/Spring%20Framework-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
-
-### **Databases & Persistence**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![H2 Database](https://img.shields.io/badge/H2%20Database-%2300f.svg?&style=for-the-badge&logo=h2&logoColor=white)
-![JPA/Hibernate](https://img.shields.io/badge/JPA/Hibernate-%2359666C.svg?&style=for-the-badge&logo=hibernate&logoColor=white)
-
-### **Tools & Technologies**
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?&style=for-the-badge&logo=apache-maven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI%203.0-%236BA539.svg?&style=for-the-badge&logo=openapi-initiative&logoColor=white)
-
-### **Architecture & Methods**
-- RESTful API Design
-- Domain-Driven Design (DDD)
-- Clean Architecture
-- Object-Oriented Programming
-- Agile Methodologies
-- UML Modeling
-
-## 💻 Featured Project
-
-### **Connected Protection Hub (CPH)**
-A comprehensive insurance and protection management platform built with:
-- **Java 17 & Spring Boot 3.2.0** - Modern backend framework
-- **Domain-Driven Design** - Clean, maintainable architecture
-- **PostgreSQL & H2** - Database management with JPA/Hibernate
-- **RESTful API** - 20+ endpoints with OpenAPI documentation
-- **MapStruct & Lombok** - Clean code and reduced boilerplate
-
-The system handles complex domains including client management, insurance plans, claims processing, and payment systems.
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-tenorio/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+Experienced Backend and Database Developer specialized in building high-performance, distributed systems. I focus on bridging the gap between application code and data infrastructure, designing robust CDC (Change Data Capture) pipelines and microservices architectures using **Debezium**, **Redpanda**, and **Azure**.
 
 ---
 
-*Open to new opportunities and collaborations in Java development!*
+## 🛠 Tech Stack
+
+### **Core Backend**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+### **Data, Streaming & CDC**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redpanda](https://img.shields.io/badge/Redpanda-C9222E?style=for-the-badge&logo=redpanda&logoColor=white)
+![Debezium](https://img.shields.io/badge/Debezium-02303A?style=for-the-badge&logo=debezium&logoColor=white)
+
+### **Cloud & Infrastructure**
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## ⚡ What I Do
+
+*   **Database Architecture:** Advanced SQL optimization, schema design, and PL/pgSQL development in PostgreSQL.
+*   **Event-Driven Architecture:** Implementing real-time data streaming and synchronization using **Debezium** for CDC and **Redpanda** as a high-performance streaming platform.
+*   **Cloud Native Development:** Deploying containerized applications (**Docker**) on **Microsoft Azure**, ensuring scalability and resilience.
+*   **Backend Engineering:** Developing REST APIs and microservices with **.NET Core** and **Spring Boot**.
+
+---
+
+## 💻 Featured Project
+
+### **Real-Time Data Sync Pipeline**
+A distributed architecture designed to synchronize legacy database changes to modern cloud services in real-time.
+
+*   **Core:** .NET 8 Microservices handling business logic.
+*   **Data Layer:** PostgreSQL optimized for high-concurrency transactional loads.
+*   **Streaming:** Implemented **Debezium** connectors to capture row-level changes from Postgres, streaming events to **Redpanda** topics.
+*   **Infrastructure:** Fully containerized with Docker and deployed on Azure Web Apps/Container Instances.
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-tenorio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
