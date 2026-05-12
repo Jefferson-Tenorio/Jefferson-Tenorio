@@ -1,24 +1,25 @@
 # Hi, I'm Jefferson. Good to have you here.
 
-**I'm a 22-year-old Brazilian developer building my foundation in data engineering and database administration — one broken config file at a time.**
+**I'm a 22-year-old Brazilian developer building my foundation in modern backend engineering and AI-powered web applications — one broken config file at a time.**
 
 > *"Everything has a solution"* — that's the sentence I repeated most during the hardest years of my life. Life is a little rough on everyone, isn't it? But while we have energy, we can:
  
-- **collect** → gather all that information
-- **store** → in the right shape, in the right place
-- **transform** → trimming the noise, generating value
-- **serve** → so everyone can use it
+- **catch** → secure the request and validate the payload
+- **process** → run the business logic and orchestrate the AI
+- **persist** → store the state cleanly and efficiently
+- **deliver** → serve fast, strictly-typed responses to the client
  
-That's the lens I bring to data. Taking what looks like chaos and pulling out something useful.
+That's the lens I bring to backend development. Taking complex business rules, unpredictable AI outputs, and wrapping them in solid, scalable APIs.
 
 ---
 ## What I Do — with intention
-- **Database Architecture:** Designing and building database systems with real trade-offs in mind — performance, consistency, scalability. Not just making it work, but understanding why it works.
-- **Data Storytelling:** Comfortable talking to engineers and to people who have never touched a query. I translate between both worlds.
-- **Data Engineering:** Pipelines, ETL/ELT, orchestration — the infrastructure that makes data actually usable.
-- **Exploratory Analysis:** I build labs, break things, document what I learn, and share it openly. Feel free to dig in.
-- **AI & Machine Learning:** Still building the foundation, but I pay close attention 
-to where data infrastructure and intelligence meet. You can't do AI without clean data pipelines.
+
+- **Modern Backend Architecture:** I build in TypeScript. I care about strict typing, clean architectures, and creating APIs that don't break unexpectedly. Not just making endpoints work, but understanding the system as a whole.
+- **API Contracts & Technical Storytelling:** Backend isn't just logic; it's communication. I write clean contracts so frontend developers, product managers, and external consumers know exactly what to expect.
+- **AI Integration for the Web:** Hooking up LLMs to web apps isn't just a simple API call anymore. I handle streaming responses, build RAG pipelines, and orchestrate the infrastructure needed to make AI fast and reliable in production.
+- **Exploratory Engineering:** I build labs, test new runtimes, break things, document what I learn, and share it openly. Feel free to dig in.
+- **Database Roots:** Because of my data background, I don't treat the database as a black box. A Node/TypeScript backend is only as fast as its queries. I design schemas and optimize databases so the web app actually scales.
+
 ---
 ## 📫 Let's Connect
 
